@@ -1,2 +1,2 @@
 # mysql-trusty
-mysql from ubuntu 14.04 base docker image
+mysql 5.6 image from ubuntu/trusty 14.04 base
